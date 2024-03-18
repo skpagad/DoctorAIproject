@@ -1,4 +1,4 @@
-# DoctorAIproject
+
 # DoctorAI Project
 
 DoctorAI is a web application designed to facilitate interactions between patients and healthcare providers. Using AWS S3 for data storage and Streamlit for the user interface, this application simplifies the process of managing appointments.
